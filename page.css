@@ -1,0 +1,27 @@
+
+    .page3{
+          
+        width: 98vw;
+       background: url("assests/Background/bck3.jpg");
+        height: 130vh;
+    } 
+   #opacityblck{
+    width: 98vw;
+    height: 130vh;
+    background-color: black;
+    opacity: 0.7;
+   }
+  
+
+
+#aboutme{
+    position: absolute;
+    width: 40vw;
+    height: 25vh;
+    background-color: #FF9400;
+    clip-path: polygon(0% 0%, 75% 0%, 100% 50%, 100% 100%, 0% 100%);
+    transform: translateY(-400%);
+    opacity: 0.6;
+    margin-left: 30px;
+}
+
